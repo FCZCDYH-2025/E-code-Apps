@@ -1,0 +1,8 @@
+文件释义：
+installer.e:安装源码
+installer.exe:安装示例
+instres.zip:安装资源，使用时改为PNG文件
+uninst.exe:卸载示例
+uninst.ico:卸载图标
+installer.ico:安装图标
+uninstaller.e:卸载源码
